@@ -1,5 +1,5 @@
 ---
-description: '[计算机基础笔记](bxg.gitbook.io/Computer-Basics)'
+description: '[计算机基础笔记](http://bxg.gitbook.io/Computer-Basics)'
 ---
 
 # 前言
