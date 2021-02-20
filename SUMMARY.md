@@ -10,6 +10,5 @@
     * [产品](ji-suan-ji-zu-cheng-yuan-li/zhuang-ji/chan-pin/README.md)
       * [主机](ji-suan-ji-zu-cheng-yuan-li/zhuang-ji/chan-pin/zhu-ji.md)
       * [笔记本](ji-suan-ji-zu-cheng-yuan-li/zhuang-ji/chan-pin/bi-ji-ben.md)
-* [数据结构与算法](shu-ju-jie-gou-yu-suan-fa/README.md)
-  * [a](shu-ju-jie-gou-yu-suan-fa/a.md)
+* [数据结构与算法](shu-ju-jie-gou-yu-suan-fa.md)
 
