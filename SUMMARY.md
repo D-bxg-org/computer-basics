@@ -17,4 +17,7 @@
       * [算法的基本概念](shu-ju-jie-gou-yu-suan-fa/xu-lun/suan-fa-1/suan-fa-de-ji-ben-gai-nian.md)
       * [算法的效率度量](shu-ju-jie-gou-yu-suan-fa/xu-lun/suan-fa-1/suan-fa-de-xiao-lv-du-liang.md)
       * [算法特例&算法思考流程（不完善版）](shu-ju-jie-gou-yu-suan-fa/xu-lun/suan-fa-1/suan-fa.md)
+  * [线性表（linear list）](shu-ju-jie-gou-yu-suan-fa/xian-xing-biao-linear-list/README.md)
+    * [顺序表（顺序存储）](shu-ju-jie-gou-yu-suan-fa/xian-xing-biao-linear-list/shun-xu-biao-shun-xu-cun-chu.md)
+    * [链表（链式存储）](shu-ju-jie-gou-yu-suan-fa/xian-xing-biao-linear-list/lian-biao-lian-shi-cun-chu.md)
 
