@@ -16,7 +16,7 @@
 
 #### 1.2.1 算法的时间复杂度
 
-![](../../.gitbook/assets/shi-jian-fu-za-du-.png)
+![](../../../.gitbook/assets/shi-jian-fu-za-du-.png)
 
 #### 1.2.2 一些常用的结论
 
@@ -75,7 +75,7 @@ void test(int n){
 
 #### 2.2.2 递归
 
-![](../../.gitbook/assets/di-gui-tiao-yong-shi-de-kong-jian-fu-za-du-.png)
+![](../../../.gitbook/assets/di-gui-tiao-yong-shi-de-kong-jian-fu-za-du-.png)
 
 空间复杂度 = 递归调用的深度
 
