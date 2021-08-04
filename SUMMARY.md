@@ -1,7 +1,8 @@
 # Table of contents
 
 * [前言](README.md)
-* [计算机操作系统](ji-suan-ji-cao-zuo-xi-tong.md)
+* [计算机操作系统](ji-suan-ji-cao-zuo-xi-tong/README.md)
+  * [一 计算机系统概述](ji-suan-ji-cao-zuo-xi-tong/yi-ji-suan-ji-xi-tong-gai-shu.md)
 * [计算机网络](ji-suan-ji-wang-luo.md)
 * [计算机组成原理](ji-suan-ji-zu-cheng-yuan-li/README.md)
   * [装机](ji-suan-ji-zu-cheng-yuan-li/zhuang-ji/README.md)
