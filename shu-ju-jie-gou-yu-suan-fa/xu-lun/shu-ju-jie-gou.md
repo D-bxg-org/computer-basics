@@ -147,3 +147,5 @@ description: 此处是一些名词的解释，有利于之后的学习。因为�
 
 ![](../../.gitbook/assets/xu-lun-si-wei-dao-tu-.png)
 
+{% embed url="https://blog.csdn.net/weixin\_43762934/article/details/85539672?utm\_medium=distribute.pc\_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&depth\_1-utm\_source=distribute.pc\_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control" %}
+
