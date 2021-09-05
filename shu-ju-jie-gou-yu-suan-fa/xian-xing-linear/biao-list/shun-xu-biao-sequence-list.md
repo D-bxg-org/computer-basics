@@ -23,3 +23,19 @@ typedef struct SqList
 
 ## 2 数据运算
 
+### 2.1 对于表的（list）
+
+1 增
+
+```c
+initSeqList();
+```
+
+2 删
+
+3 改
+
+4 查
+
+### 2.2 对于数据元素的（element）
+
