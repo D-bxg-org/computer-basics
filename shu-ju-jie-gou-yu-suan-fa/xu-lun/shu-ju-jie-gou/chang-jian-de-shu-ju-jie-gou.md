@@ -6,9 +6,9 @@
 
 ### 1.2 链表（link list）
 
-1. 单链表
-2. 双向链表
-3. 循环链表
+1. 单链表（Singly linked list）
+2. 双向链表（Double linked lists）
+3. 循环链表（Circylar linked lists）
 
 ### 1.3 栈（stack）
 
@@ -52,4 +52,6 @@
 ## 3 逻辑：图状
 
 ### 3.1 图
+
+{% embed url="http://www.nowamagic.net/librarys/veda/detail/1866" %}
 
