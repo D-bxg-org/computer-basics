@@ -30,4 +30,5 @@
     * [队列（queue）](shu-ju-jie-gou-yu-suan-fa/xian-xing-linear/dui-lie-queue.md)
     * [数组](shu-ju-jie-gou-yu-suan-fa/xian-xing-linear/shu-zu.md)
     * [串（string）](shu-ju-jie-gou-yu-suan-fa/xian-xing-linear/chuan-string.md)
+  * [树形（tree）](shu-ju-jie-gou-yu-suan-fa/shu-xing-tree.md)
 
