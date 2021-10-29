@@ -47,13 +47,13 @@ description: 此处是一些名词的解释，有利于之后的学习。因为�
 
 ![](../../../.gitbook/assets/shu-ju-lei-xing-.png)
 
-![C&#x8BED;&#x8A00;&#x7684;&#x6570;&#x636E;&#x7C7B;&#x578B;](../../../.gitbook/assets/c-yu-yan-de-shu-ju-lei-xing-.jpg)
+![C语言的数据类型](../../../.gitbook/assets/c-yu-yan-de-shu-ju-lei-xing-.jpg)
 
 #### 1.4.2 抽象数据类型（Abstract DataType，ADT）
 
 在说明一种抽象数据类型（ADT）时，我们**不关心它的实现**。因此只讨论逻辑结构和数据的运算。
 
-而我们要用某种语言实现它时，才是时候讨论物理结构，这时我们讨论的是数据结构。 
+而我们要用某种语言实现它时，才是时候讨论物理结构，这时我们讨论的是数据结构。&#x20;
 
 所以可以这么讲：我们讨论数据结构，就是在讨论**用某种存储结构实现的抽象数据类型（ADT）**。
 
@@ -126,6 +126,8 @@ description: 此处是一些名词的解释，有利于之后的学习。因为�
 
 ![](../../../.gitbook/assets/shu-ju-de-yun-suan-.png)
 
+常见的运算：查找、排序、插入、删除、修改
+
 ## 3 数据结构
 
 我们在讨论某种特定数据结构时，实际上是在讨论下面三点，也就是三要素。前两点是在讨论抽象数据类型（ADT）。
@@ -147,5 +149,4 @@ description: 此处是一些名词的解释，有利于之后的学习。因为�
 
 ![](../../../.gitbook/assets/xu-lun-si-wei-dao-tu-.png)
 
-{% embed url="https://blog.csdn.net/weixin\_43762934/article/details/85539672?utm\_medium=distribute.pc\_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&depth\_1-utm\_source=distribute.pc\_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control" %}
-
+{% embed url="https://blog.csdn.net/weixin_43762934/article/details/85539672?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control" %}
