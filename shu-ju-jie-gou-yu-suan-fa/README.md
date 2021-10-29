@@ -6,11 +6,9 @@ GitHub地址：[https://github.com/D-bxg/data-structures-and-algorithms](https:/
 
 参考：
 
-{% embed url="https://www.bilibili.com/video/BV1jt4y117KR?p=14&spm\_id\_from=pageDriver" %}
+{% embed url="https://www.bilibili.com/video/BV1jt4y117KR?p=14&spm_id_from=pageDriver" %}
 
-{% embed url="https://www.bilibili.com/video/BV1jt4y117KR?p=15&spm\_id\_from=pageDriver" %}
-
-
+{% embed url="https://www.bilibili.com/video/BV1jt4y117KR?p=15&spm_id_from=pageDriver" %}
 
 
 
