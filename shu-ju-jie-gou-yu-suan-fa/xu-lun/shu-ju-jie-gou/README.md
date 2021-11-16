@@ -6,7 +6,7 @@ description: 此处是一些名词的解释，有利于之后的学习。因为�
 
 ## 1 基本概念
 
-![](../../../.gitbook/assets/shu-ju-jie-gou-ji-ben-gai-nian-de-zong-jie-.png)
+![](../../../.gitbook/assets/数据结构基本概念的总结.png)
 
 ### 1.1 数据（Data）
 
@@ -37,7 +37,7 @@ description: 此处是一些名词的解释，有利于之后的学习。因为�
 
 我们在此处说的数据结构只是对数据结构这个名词做的解释，是泛指。**3 数据结构**是对之后学习数据结构时怎样学进行的解释，是特定某种**抽象数据类型（ADT）**后的讨论。例如：我们在说“线性表”时，实际上是在说一种“抽象数据类型（ADT）”，因为此处关心的是指明我们要说哪种数据结构；我们说“线性表”里的“结点”时，是在说这种“数据结构”里的“数据元素”的名称，因为此处关心的是数据结构里的数据元素的关系。（2021年3月9日：此处有些混乱，但是没关系，没必要抓这么死，只要能在别人提到这些名词时知道对方在说什么就够了。）
 
-![](../../../.gitbook/assets/shu-ju-jie-gou-he-shu-ju-dui-xiang-de-qu-bie-.png)
+![](../../../.gitbook/assets/数据结构和数据对象的区别.png)
 
 ### 1.4 数据类型、抽象数据类型（ADT）
 
@@ -45,9 +45,9 @@ description: 此处是一些名词的解释，有利于之后的学习。因为�
 
 一个值的集合和定义在此集合上的一组操作的总称呼。 有**值的范围**和**可进行的操作**。
 
-![](../../../.gitbook/assets/shu-ju-lei-xing-.png)
+![](../../../.gitbook/assets/数据类型.png)
 
-![C语言的数据类型](../../../.gitbook/assets/c-yu-yan-de-shu-ju-lei-xing-.jpg)
+![C语言的数据类型](../../../.gitbook/assets/C语言的数据类型.jpg)
 
 #### 1.4.2 抽象数据类型（Abstract DataType，ADT）
 
@@ -57,7 +57,7 @@ description: 此处是一些名词的解释，有利于之后的学习。因为�
 
 所以可以这么讲：我们讨论数据结构，就是在讨论**用某种存储结构实现的抽象数据类型（ADT）**。
 
-![](../../../.gitbook/assets/chou-xiang-shu-ju-lei-xing-.png)
+![](../../../.gitbook/assets/抽象数据类型.png)
 
 ## 2 三要素
 
@@ -124,7 +124,7 @@ description: 此处是一些名词的解释，有利于之后的学习。因为�
   * 如果采用了顺序实现，那功能应该如何具体的实现？
   * 重点关注的是**运算的具体操作步骤**
 
-![](../../../.gitbook/assets/shu-ju-de-yun-suan-.png)
+![](../../../.gitbook/assets/数据的运算.png)
 
 常见的运算：查找、排序、插入、删除、修改
 
@@ -147,6 +147,6 @@ description: 此处是一些名词的解释，有利于之后的学习。因为�
 
 ## 4 总结
 
-![](../../../.gitbook/assets/xu-lun-si-wei-dao-tu-.png)
+![](../../../.gitbook/assets/绪论思维导图.png)
 
 {% embed url="https://blog.csdn.net/weixin_43762934/article/details/85539672?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control" %}
