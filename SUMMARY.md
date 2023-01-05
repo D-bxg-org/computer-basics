@@ -1,6 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
+* [计算机程序的构造和解释](ji-suan-ji-cheng-xu-de-gou-zao-he-jie-shi.md)
 * [计算机操作系统](ji-suan-ji-cao-zuo-xi-tong/README.md)
   * [一 计算机系统概述](ji-suan-ji-cao-zuo-xi-tong/yi-ji-suan-ji-xi-tong-gai-shu.md)
 * [计算机网络](ji-suan-ji-wang-luo.md)
